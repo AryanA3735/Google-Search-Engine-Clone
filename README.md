@@ -1,2 +1,3 @@
-# Google-Search-Engine-Clone
-built a google search engine clone which redirect you to google search engine for the results of your search
+# Google-Clone-Tutorial-CodingStar
+
+[Click Here](https://codingstar-jason.github.io/Google-Clone-Tutorial-CodingStar/) to see website
